@@ -1,7 +1,7 @@
 # Singly-Linked-List-
 
 A menu driven C program to perform basic operations using a singly linked list :
-1. Create an SLL.
+1. Create a SLL.
 2. Insert a node in the beginning.
 3. Insert a node at the end.
 4. Insert a node in between two nodes.
