@@ -27,6 +27,7 @@ int main(void)
 	struct SLLNode *q = NULL;
 	struct SLLNode *i = NULL;
 	struct SLLNode *dnode = NULL;
+	printf("No");
 	
 	do
 	{
